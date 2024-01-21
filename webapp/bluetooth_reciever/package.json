@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "await": "^0.2.6",
+    "dot-env": "^0.0.1",
+    "dotenv": "^16.3.1",
+    "mongoose": "^8.0.3",
+    "node-ble": "^1.9.0"
+  }
+}
