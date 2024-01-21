@@ -10,5 +10,3 @@ A web app to see the data is also supplied.
 ![photo of web app 1](webapp1.png)
 ![photo of web app 2](webapp2.png)
 ![photo of web app 3](webapp3.png)
-# foot-tracker
-# foot-tracker
